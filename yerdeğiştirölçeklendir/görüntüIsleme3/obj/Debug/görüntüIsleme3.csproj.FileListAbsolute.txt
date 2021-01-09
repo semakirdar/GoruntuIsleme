@@ -1,0 +1,10 @@
+C:\Users\SEMA\source\repos\görüntüIsleme3\görüntüIsleme3\bin\Debug\görüntüIsleme3.exe.config
+C:\Users\SEMA\source\repos\görüntüIsleme3\görüntüIsleme3\bin\Debug\görüntüIsleme3.exe
+C:\Users\SEMA\source\repos\görüntüIsleme3\görüntüIsleme3\bin\Debug\görüntüIsleme3.pdb
+C:\Users\SEMA\source\repos\görüntüIsleme3\görüntüIsleme3\obj\Debug\görüntüIsleme3.csprojAssemblyReference.cache
+C:\Users\SEMA\source\repos\görüntüIsleme3\görüntüIsleme3\obj\Debug\görüntüIsleme3.Form1.resources
+C:\Users\SEMA\source\repos\görüntüIsleme3\görüntüIsleme3\obj\Debug\görüntüIsleme3.Properties.Resources.resources
+C:\Users\SEMA\source\repos\görüntüIsleme3\görüntüIsleme3\obj\Debug\görüntüIsleme3.csproj.GenerateResource.cache
+C:\Users\SEMA\source\repos\görüntüIsleme3\görüntüIsleme3\obj\Debug\görüntüIsleme3.csproj.CoreCompileInputs.cache
+C:\Users\SEMA\source\repos\görüntüIsleme3\görüntüIsleme3\obj\Debug\görüntüIsleme3.exe
+C:\Users\SEMA\source\repos\görüntüIsleme3\görüntüIsleme3\obj\Debug\görüntüIsleme3.pdb
